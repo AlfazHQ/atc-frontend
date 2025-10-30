@@ -13,7 +13,7 @@
       <ul class="mb-4">
         <li class="menu-item"><router-link :to="{ name: 'Home'}">Home</router-link></li>
         <li class="menu-item"><router-link :to="{ name: 'GlobalCoverage'}">Global Coverage</router-link></li>
-        <li class="menu-item"><router-link :to="{ name: 'Pricing'}">Pricing</router-link></li>
+        <!-- <li class="menu-item"><router-link :to="{ name: 'Pricing'}">Pricing</router-link></li> -->
         <li class="menu-item"><router-link :to="{ name: 'WhyAtc'}">WhyAtc</router-link></li>
       </ul>
 
